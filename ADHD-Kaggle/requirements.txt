@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nilearn
+tensorflow
+torch
+notebook
+jupyter
+ipywidgets
+openpyxl
