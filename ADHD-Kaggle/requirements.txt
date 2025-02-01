@@ -10,3 +10,4 @@ notebook
 jupyter
 ipywidgets
 openpyxl
+scipy
